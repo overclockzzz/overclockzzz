@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nicolas 👋
 
-<!--
-**overclockzzz/overclockzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 22 years old and currently studying Systems Analysis and Development.
 
-Here are some ideas to get you started:
+I love C#, .NET Framework, JavaScript, gaming, reverse engineering, and game hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently have a card at [guns.lol/overclockzzz](https://guns.lol/overclockzzz), but I intend to build a proper custom page in the near future.
+
+You can find me here:
+
+| Platform | Username |
+| --- | --- |
+| Discord | @overclockzzz |
+| guns.lol | [overclockzzz](https://guns.lol/overclockzzz) |
+
+![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=overclockzzz&show_icons=true&theme=dark)
